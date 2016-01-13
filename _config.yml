@@ -1,0 +1,28 @@
+name: maarta
+favicon: null
+layout_spectrum: 0.9300983564462513
+typography_spectrum: 0.6596775203943253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.37211990100331604
+  lightness: 0.8612273863982409
+  saturation: 0.20081509253941476
+  rhythmicContrast: 0.5620352476835251
+purpose: []

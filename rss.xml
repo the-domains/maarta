@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[maarta]]></title>
+        <description><![CDATA[maarta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 18:20:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A new family member]]></title>
+            <description><![CDATA[<h1>A new family member</h1>]]></description>
+            <link>undefineda-new-family-member/index.html</link>
+            <guid isPermaLink="false">a45175d6-efe8-41ea-baa7-66148ef0c1c1</guid>
+            <pubDate>Wed, 13 Jan 2016 18:20:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

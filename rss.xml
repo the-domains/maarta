@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[maarta]]></title>
         <description><![CDATA[maarta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maarta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 18:20:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 18:22:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maarta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A new family member]]></title>
-            <description><![CDATA[<h1>A new family member</h1>]]></description>
-            <link>undefineda-new-family-member/index.html</link>
+            <description><![CDATA[<article><h1>A new family member</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b756ceb0-7634-41b3-9a3a-939418a80fdf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maarta/a-new-family-member/index.html</link>
             <guid isPermaLink="false">a45175d6-efe8-41ea-baa7-66148ef0c1c1</guid>
-            <pubDate>Wed, 13 Jan 2016 18:20:05 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 18:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

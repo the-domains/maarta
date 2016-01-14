@@ -1,38 +1,28 @@
+name: maarta
+favicon: null
+layout_spectrum: 0.05999
+typography_spectrum: 0.63612
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-purpose: []
 color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 0
   brandColors:
-    - '#FFFFFF'
-    - '#6E6E6E'
-    - '#4B4B4B'
-  rhythmicContrast: 0
-typography_spectrum: 0.2617021
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: maarta
+    - '#ffffff'
+    - '#505050'
+    - '#838383'
+    - '#272727'
+    - '#b4b4b4'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []

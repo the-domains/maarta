@@ -4,8 +4,15 @@
         <description><![CDATA[maarta]]></description>
         <link>https://thegrid.ai/maarta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 00:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 06:44:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maarta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cow]]></title>
+            <description><![CDATA[<article><h1>Cow</h1><p>Here goes the text</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acd74bd32e8c699ec0fa595d9a990f8f9892f474.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maarta/cow/index.html</link>
+            <guid isPermaLink="false">2b9dc1d9-8150-451c-80bb-6c14d87fb3b0</guid>
+            <pubDate>Thu, 14 Jan 2016 06:43:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A new family member]]></title>
             <description><![CDATA[<article><h1>A new family member</h1><p>Content</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fac41787b0a67d851d8f779065682b6eab9c40b3.jpg"></article>]]></description>

@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: maarta
 favicon: null
+name: maarta
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7799326
-layout_spectrum: 0.584317
+layout_spectrum: 0.3532884

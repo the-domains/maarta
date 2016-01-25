@@ -1,6 +1,6 @@
 name: maarta
 favicon: null
-layout_spectrum: 0.25424
+layout_spectrum: 0.48814
 typography_spectrum: 0.7799326
 title: 'meditation & art alliance'
 collections:
@@ -36,6 +36,6 @@ color:
     - '#777777'
   brandStrength: 1
   lightness: 1
-  saturation: 0.125
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []

@@ -1,41 +1,41 @@
-name: maarta
-favicon: null
-layout_spectrum: 0.25508
-typography_spectrum: 0.7799326
-title: 'meditation & art alliance'
+title: meditation & art alliance
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#A9A8A6'
+    - '#D3D2D0'
+    - '#484441'
+    - '#26211E'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: maarta
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#010101'
-    - '#CFCFCF'
-    - '#9A9A9A'
-    - '#777777'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.7799326
+layout_spectrum: 0.25508

@@ -14,14 +14,14 @@ collections:
       number: 10
 color:
   saturation: 0
-  brandStrength: 1
+  brandStrength: 0.5293843
   lightness: 1
   brandColors:
     - '#FFFFFF'
-    - '#A9A8A6'
-    - '#D3D2D0'
-    - '#484441'
-    - '#26211E'
+    - '#393939'
+    - '#7E7E7E'
+    - '#999999'
+    - '#DDDDDD'
   rhythmicContrast: 0.5
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: maarta
+favicon: null
 opengraph:
   image: null
   type: null

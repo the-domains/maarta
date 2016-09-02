@@ -1,10 +1,11 @@
 ---
 author: []
 title: The Dragonfly
-dateModified: '2016-08-31T08:53:03.351Z'
-datePublished: '2016-08-31T08:53:36.269Z'
+dateModified: '2016-08-31T08:55:49.440Z'
+datePublished: '2016-08-31T08:56:25.803Z'
 description: Text
-publisher: {}
+publisher:
+  name: maarta
 via: {}
 starred: false
 sourcePath: _posts/2016-08-31-the-dragonfly.md
@@ -14,9 +15,11 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c8645ca-22ad-48b3-afdf-cd97f4d6be0c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abd1bf9e-61eb-4232-984f-e0bc1e5decc2.jpg)
 
 Text
+
+text
 
 text
 
